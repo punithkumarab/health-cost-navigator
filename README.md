@@ -173,7 +173,7 @@ npm --version
 Replace the URL below with your actual GitHub repository URL:
 
 ```bash
-git clone [https://github.com/punithkumar0927-ctrl/medicost-ai.git](https://github.com/punithkumar0927-ctrl/medicost-ai.git)
+git clone [https://github.com/punithkumarab/medicost-ai.git](https://github.com/punithkumarab/medicost-ai.git)
 ```
 
 ### 2. Navigate to the Project Folder
@@ -381,7 +381,7 @@ Add your deployed application link here:
 
 B.E. Artificial Intelligence and Machine Learning
 
-- GitHub: [@punithkumar0927-ctrl](https://github.com/punithkumar0927-ctrl)
+- GitHub: [@punithkumarab](https://github.com/punithkumarab)
 - Portfolio: Add your portfolio link
 - LinkedIn: Add your LinkedIn profile link
 - Email: Add your email address
